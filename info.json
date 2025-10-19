@@ -1,0 +1,11 @@
+{
+  "name": "Shattered_Planet_Language_Pack",
+  "title": "Shattered Planet Language Pack",
+  "description": "Localizations for Shattered Planet mod.\n\nLocales included: Russian.",
+  "author": "Shadow_Man",
+  "version": "1.1.0",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "?skewer_shattered_planet >= 1.0.0"
+  ]
+}
